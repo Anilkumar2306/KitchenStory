@@ -1,2 +1,1 @@
-# Kitchenstory
-project submission
+# KitchenStory
